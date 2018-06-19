@@ -1,0 +1,2 @@
+# android_local_manifests
+aosp_N2G48H_android-7.1.2_r36_w5_manifests
