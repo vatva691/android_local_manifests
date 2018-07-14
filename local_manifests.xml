@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/lge/w5" name="vatva691/android_device_lge_w5" remote="github" revision="cm-14.1" />
-    <project path="vendor/lge/w5" name="vatva691/proprietary_vendor_lge_w5" remote="github" revision="master" />>
-    <project path="kernel/lge/msm8226" name="vatva691/android_kernel_lge_msm8226" remote="github" revision="cm-14.1" />	
-    <project path="device/lge/msm8226-common" name="vatva691/android_device_lge_msm8226-common" remote="github" revision="cm-14.1" />	
-    <project path="device/qcom/sepolicy" name="vatva691/android_device_qcom_sepolicy" remote="github" revision="cm-14.1" />
+    <project path="device/lge/w5" name="vatva691/android_device_lge_w5" remote="github" revision="lineage-15.1" />
+    <project path="device/lge/msm8226-common" name="vatva691/android_device_lge_msm8226-common" remote="github" revision="lineage-15.1" />
+    <project path="kernel/lge/msm8226" name="vatva691/android_kernel_lge_msm8226-1" remote="github" revision="lineage-15.1" />
+    <project path="vendor/lge" name="vatva691/proprietary_vendor_lge" remote="github" revision="lineage-15.1" />
+    <project path="vendor/lge/msm8226-common" name="vatva691/proprietary_vendor_lge_msm8226-common" remote="github" revision="lineage-15.0" />
+    <!-- vatva691 dependencies -->
+    <project path="device/qcom/common" name="vatva691/android_device_qcom_common-5" remote="github" revision="o8x-caf" />
+    <project path="hardware/qcom/display-caf" name="vatva691/android_hardware_qcom_display" remote="github" revision="lineage-15.1" />
+    <project path="hardware/qcom/media-caf" name="vatva691/android_hardware_qcom_media" remote="github" revision="lineage-15.1" />
+    <project path="hardware/qcom/audio-caf" name="vatva691/android_hardware_qcom_audio" remote="github" revision="lineage-15.1" />
+    <project path="device/qcom/sepolicy" name="vatva691/android_device_qcom_sepolicy" remote="github" revision="lineage-15.1" />
+    <project path="vendor/codeaurora/telephony" name="vatva691/android_vendor_codeaurora_telephony" remote="github" revision="lineage-15.1" />
+    <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
 </manifest>
