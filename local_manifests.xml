@@ -13,4 +13,5 @@
     <project path="device/qcom/sepolicy" name="vatva691/android_device_qcom_sepolicy" remote="github" revision="lineage-15.1" />
     <project path="vendor/codeaurora/telephony" name="vatva691/android_vendor_codeaurora_telephony" remote="github" revision="lineage-15.1" />
     <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+    <project path="vendor/aosp" name="vatva691/platform_vendor_aosp" remote="github" revision="aosp-8.1" />
 </manifest>
