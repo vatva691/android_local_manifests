@@ -14,6 +14,6 @@
     <project path="vendor/codeaurora/telephony" name="vatva691/android_vendor_codeaurora_telephony" remote="github" revision="lineage-15.1" />
     <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
     <project path="vendor/aosp" name="vatva691/platform_vendor_aosp" remote="github" revision="aosp-8.1" />
-    
+    <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1"/>
   
 </manifest>
